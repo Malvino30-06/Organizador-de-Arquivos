@@ -47,7 +47,7 @@ venv\Scripts\activate   # Windows
 python organizador.py /caminho/para/sua/pasta
 ```
 
-Extra.⚠️ Modo Simulação (sem mover arquivos):
+5. ⚠️ Extra - Modo Simulação (sem mover arquivos):
 ```bash
 python organizador.py /caminho/pasta --simular
 ```
